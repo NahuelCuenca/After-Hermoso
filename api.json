@@ -1,0 +1,6 @@
+[
+    {"nombre": "Auricular", "descripcion": "otra cosa", "img": "imagen", "id": 1, "cantidad": 2, "precio": 100},
+    {"nombre": "Auricular", "descripcion": "otra cosa", "img": "imagen", "id": 2, "cantidad": 1, "precio": 1400},
+    {"nombre": "Auricular", "descripcion": "otra cosa", "img": "imagen", "id": 2, "cantidad": 3, "precio": 100},
+    {"nombre": "Auricular", "descripcion": "otra cosa", "img": "imagen", "id": 2, "cantidad": 4, "precio": 100}
+]
